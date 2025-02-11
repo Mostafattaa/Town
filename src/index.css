@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@plugin "daisyui" {
+  themes:all;
+}
+
+@theme {
+    --breakpoint-coll: 62rem;
+    --color-first: #e3987f; 
+    --color-last: #5c648c; 
+  }
+
